@@ -10,4 +10,4 @@
 
 | Halaman Login | Halaman Data Pasien |
 | :---: | :---: |
-| ![Login](HalamanLogin.png) | ![Daftar Pasien](DaftarPasien.png) |
+| ![Login](HalamanLogin.png) | ![Daftar Pasien](DataPasien.png) |
